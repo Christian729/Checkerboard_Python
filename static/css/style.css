@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    vertical-align: top;
+    box-sizing: border-box;
+}
+
+.col1{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    padding: 0px;
+    margin: 0px;
+    display: inline-block;
+}
+
+.col2{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    padding: 0px;
+    margin: 0px;
+    display: inline-block;
+}
